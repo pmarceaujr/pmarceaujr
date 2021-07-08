@@ -9,7 +9,7 @@ I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years
  Handlebars.js, EJS, Python, Angualr, Vue, GraphQL, Git, GitHub, Linux (Ubuntu), CLI, Heroku, Jest, Jasmine, VSCode
 
 ### Find me online:
-👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/
+👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/ <br />
 👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/pmarceaujr/
 
 📫 codemaster@themarceaus.net
