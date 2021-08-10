@@ -10,7 +10,7 @@ I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years
 
 ### Find me online:
 👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/ <br />
-👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/pmarceaujr/
+
 
 📫 codemaster@themarceaus.net
 
