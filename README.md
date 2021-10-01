@@ -6,7 +6,9 @@ I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years
 🕮 My current tech skills: 
 
  HTML, CSS, Bootstrap, Materialize, JavaScript, jQuery, SQL, mySQL, PostgreSQL, MS Server, Oracle, Node.js, Express.js, Sequelize, MongoDB, mongoose,React (Hooks and Redux), 
- Handlebars.js, EJS, Python, Angualr, Vue, GraphQL, Git, GitHub, Linux (Ubuntu), CLI, Heroku, Jest, Jasmine, VSCode
+ Handlebars.js, EJS, Python, Angualr, Vue, GraphQL, Git, GitHub, Linux (Ubuntu), CLI, Heroku, Jest, Jasmine, VSCode.
+ 
+ AWS Cloud Practitioner Certified
 
 ### Find me online:
 👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/ <br />
