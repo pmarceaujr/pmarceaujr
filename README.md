@@ -10,7 +10,7 @@ I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years
  
  AWS Cloud Practitioner Certified
 
-#![AWS-Certified_Cloud-Practitioner](https://user-images.githubusercontent.com/76534805/135660710-9f590c98-4d9d-4dfa-a743-d58642bb0675.png)
+#![AWS-Certified_Cloud-Practitioner](<img src="https://user-images.githubusercontent.com/76534805/135660710-9f590c98-4d9d-4dfa-a743-d58642bb0675.png" width="50" height="50">)
 ## Find me online:
 👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/ <br />
 👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/pmarceaujr/ <br />
