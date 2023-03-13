@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Hello World!  I'm Paul!  
-I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years technical and coding experience.  I have a Bachelor’s Degree in Business Administration from Southern New Hampshire University, a Master's Degree in Computer Information Systems also from Southern New Hampshire University and a Fullstack Development Certificate from the Universtity of New Hampshire.  I truly enjoy coding and using code to solve real world problems.  I am also curious by nature, which contributers to my desire to be constantly learning new things.
+I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years technical and coding experience.  I have a Bachelor’s Degree in Business Administration from Southern New Hampshire University, a Master's Degree in Computer Information Systems also from Southern New Hampshire University and a Fullstack Development Certificate from the Universtity of New Hampshire.  I truly enjoy coding and using code to solve real world problems.  I am also curious by nature, which contributes to my desire to be constantly learning new things.
 
 🕮 My current tech skills: 
 
