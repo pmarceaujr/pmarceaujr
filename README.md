@@ -5,7 +5,7 @@ I am a Fullstack Software Engineer in the Greater Boston Area with over 10 years
 
 🕮 My current tech skills: 
 
-AWS Services (Lambda, CFT, DynamoDB, StepFunctions, API Gateway, EventBridgeEC2 and S3, to name some of the more common ones), Python, HTML, CSS, Bootstrap, Git, GitHub, Linux (Ubuntu), CLI, JavaScript, jQuery, SQL, mySQL, PostgreSQL, MS SQL Server, Oracle, Node.js, Express.js, TypeScript, ORMs, Sequelize, MongoDB, mongoose, React (Hooks and Redux), Handlebars.js, EJS, Angualr, Vue, GraphQL, Heroku, Jest, Jasmine, Materialize, VSCode.
+AWS Services (Lambda, CFT, DynamoDB, StepFunctions, API Gateway, EventBridge, EC2, Glue and S3, to name some of the more common ones), Python, HTML, CSS, Bootstrap, Git, GitHub, Linux (Ubuntu), CLI, JavaScript, jQuery, SQL, mySQL, PostgreSQL, MS SQL Server, Oracle, Node.js, Express.js, TypeScript, ORMs, Sequelize, MongoDB, mongoose, React (Hooks and Redux), Handlebars.js, EJS, Angualr, Vue, GraphQL, Heroku, Jest, Jasmine, Materialize, VSCode.
  
  ## AWS Cloud Practitioner Certified
 
