@@ -11,7 +11,6 @@ AWS Services (Lambda, CFT, DynamoDB, StepFunctions, API Gateway, EventBridge, EC
 
 
 ## Find me online:
-👨🏻‍💻 GitHub: https://pmarceaujr.github.io/ProfessionalProfile_2.0/ <br />
 👨🏻‍💻 LinkedIn: https://www.linkedin.com/in/pmarceaujr/ <br />
 
 
